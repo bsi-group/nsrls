@@ -1,7 +1,7 @@
 nsrls (NSRL Server)
 ===================
 
-nsrls is a server designed to provide access to the NSRL hash data set. There are 
+nsrls is a server designed to provide access to the [National Software Reference Library (NSRL)](http://www.nsrl.nist.gov/Downloads.htm)  hash data set. There are 
 two methods to access the data either running as a single process or using a JSON 
 HTTP API. The HTTP JSON API can be used by the nsrlc (NSRL Client) or directly by 
 other applications or processes.
